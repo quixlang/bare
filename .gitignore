@@ -1,0 +1,5 @@
+.qpkg/
+bare
+bare.exe
+libbare.a
+libbare.so
